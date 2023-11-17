@@ -954,7 +954,7 @@
 
 .mainNews .img_box_wrap .text_box p:hover {
     color: #00A5E5;
-    transition: 0.s;
+    transition: 0.3s;
 }
 
 
@@ -1071,7 +1071,8 @@
     padding: 145px 0 0 0;
 }
 
-.footer hr {
+
+.footer .footer_line {
     border: 1px solid #ddd;
 }
 
